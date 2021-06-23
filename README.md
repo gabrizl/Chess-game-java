@@ -1,2 +1,2 @@
 # Chess-game-java
-this a chess game in java
+this is a chess game in java
